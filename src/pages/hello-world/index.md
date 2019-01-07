@@ -1,11 +1,9 @@
 ---
-title: Hello World
-date: "2015-05-01T22:12:03.284Z"
+title: PowerBI - Refreshing R script using Personal Gateway 
+date: "2019-07-01T23:00:00.284Z"
 ---
 
-This is my first post on my new fake blog! How exciting!
-
-I'm sure I'll write a lot more interesting things in the future.
+This is my first PowerBI Blog!
 
 Oh, and here's a great quote from this Wikipedia on
 [salted duck eggs](http://en.wikipedia.org/wiki/Salted_duck_egg).
