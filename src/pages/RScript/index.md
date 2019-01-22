@@ -4,7 +4,8 @@ date: "2019-01-21"
 ---
 > “We don't make mistakes, just happy little accidents.”  - Bob Ross famous quote.
 Image from biography.com
-<br>
+
+
 ![Bob Ross](https://www.biography.com/.image/t_share/MTI1NDg4NTg2MDAxODA1Mjgy/bob-ross-promojpg.jpg)
 
 While I was growing up, I was in awe of my sister who can draw and paint. That skill isnt at all natural to me and I found that I am better with copy and paste! 
@@ -27,8 +28,14 @@ Good news! So I am going to approach this theme customisation into 3 steps:
 2. Write the R output into a json file.
 3. Import theme into pbix file
 
-```{r}
-#paletteR package isnt on CRAN so download it from source.
+# Joy of painting
+![Mountain Lake](http://www.twoinchbrush.com/images/painting291.png)
+
+
+## Step 1 - Use R for hex codes
+paletteR package isnt on CRAN so download it from source.
+
+```r
 devtools::install_github("AndreaCirilloAC/paletter")
 
 library(paletter)
@@ -36,10 +43,11 @@ library(png)
 library(tidyverse)
 library(jsonlite)
 
+
 download.file("http://www.twoinchbrush.com/images/painting291.png", "image.png")
+
 painting     <- readPNG("image.png")
 
-```{r}
 
 dimension    <- dim(painting)
 painting_rgb <- data.frame(
@@ -56,9 +64,34 @@ show_col(rgb(k_means$centers))
 
 rgb_df = rgb(k_means$centers) %>% as.data.frame() 
 
-colnames(rgb_df)[1] = "dataColors"
+pbi_list <- list(
+  name = "Mountain Lake",
+  dataColors = rgb_df,
+  background = "#FFFFFF",
+  foreground = "#A4B690",
+  tableAccent =  "#C3D4FE")
 
-rgb_df$name = NULL
 
+pbi_theme = jsonlite::toJSON(pbi_list, 
+                             auto_unbox = T, 
+                             pretty = T)
+pbi_theme
+```
 
-rgb_df
+## Step 2 - Write the R output into a json file.
+I tried using jsonlite 's function toJson to output the file but I found that it didnt render the file the way I wanted so I simply used writeLines base R function instead. It allowed me to import this theme file into PowerBI without any errors.
+
+```r
+fileConn<-file("lake.json")
+writeLines(pbi_theme, fileConn)
+close(fileConn)
+```
+
+## 3. Import theme into pbix file
+Referring to the blog by mssqltip.com above, you can navigate to json file previously created.
+
+![PowerBI Moutain Lake Theme](pbi_theme.png)
+
+Voila! PowerBI + R = Awesome.
+
+Hope you enjoy this blog. 
