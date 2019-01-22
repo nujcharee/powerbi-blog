@@ -29,8 +29,9 @@ Good news! So I am going to approach this theme customisation into 3 steps:
 3. Import theme into pbix file
 
 # Joy of painting
+<br>
 ![Mountain Lake](http://www.twoinchbrush.com/images/painting291.png)
-
+![Bob Ross](https://www.biography.com/.image/t_share/MTI1NDg4NTg2MDAxODA1Mjgy/bob-ross-promojpg.jpg)
 
 ## Step 1 - Use R for hex codes
 paletteR package isnt on CRAN so download it from source.
