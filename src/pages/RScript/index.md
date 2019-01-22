@@ -30,6 +30,8 @@ Good news! So I am going to approach this theme customisation into 3 steps:
 
 # Joy of painting
 
+picture from http://www.twoinchbrush.com
+
 ![Mountain Lake](http://www.twoinchbrush.com/images/painting291.png)
 
 ## Step 1 - Use R for hex codes
@@ -90,9 +92,9 @@ close(fileConn)
 ## 3. Import theme into pbix file
 Referring to the blog by mssqltip.com above, you can navigate to json file previously created.
 
+![Mountain Lake](http://www.twoinchbrush.com/images/painting291.png)
 
 ![PowerBI Moutain Lake Theme](pbi_theme.png)
-
 
 
 Voila! PowerBI + R = Awesome.
