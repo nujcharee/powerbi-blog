@@ -5,7 +5,7 @@ date: "2019-02-17"
 
 Nicholas Rougeux is one of my favourite data artists. 'Cos I am a PowerBI and a R nerd, I was curious if its possible that I can do something similar in PowerBI. At the time of writing this, I wasnt aware if there is a capability to read audio file directly from PowerBI.
 
-I came across this website, the author of this article, ![Henrik Lindberg](https://htmlpreview.github.io/?https://github.com/halhen/viz-pub/blob/master/mahler/code.html), and I shared something in common here, we both admire Nicholas Rougeux and we use R. I'm impressed by the author's tutorial on how to use ```tuneR``` package to extract midi files into tidy data.
+I came across this website, the author of this article, [Henrik Lindberg](https://htmlpreview.github.io/?https://github.com/halhen/viz-pub/blob/master/mahler/code.html), and I shared something in common here, we both admire Nicholas Rougeux and we use R. I'm impressed by the author's tutorial on how to use ```tuneR``` package to extract midi files into tidy data.
 
 I followed his tutorial in R but I chose a different midi file. 
 
@@ -83,10 +83,18 @@ p = baby_shark_df %>% ggplot(aes(radius * sin(angle), radius * cos(angle), size=
   scale_size_identity() +
   coord_equal()
 
+library(gganimate)
+
+# this is the library to make an animation.
 
   p + transition_time(velocity) +
   labs(title = "Rhythm of baby shark: {frame_time}")
-  ```
+
+```
+
+[![Baby Shark](./babyshark.gif)
+
+<br>
 
 ## PowerBI visualisation
 
@@ -94,4 +102,5 @@ You can visualise a similar visualisation like static ggplot above using standar
 I have done something similar here.
 
 <iframe width="1140" height="541.25" src="https://app.powerbi.com/view?r=eyJrIjoiZTFhMTljZjQtZjU4Ni00ZmNmLWFmNDItNWVkNmFiNDFlMTc0IiwidCI6ImFkM2Q5YzczLTk4MzAtNDRhMS1iNDg3LWUxMDU1NDQxYzcwZSIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe>
+
 
