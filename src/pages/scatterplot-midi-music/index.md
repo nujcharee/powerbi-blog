@@ -101,6 +101,5 @@ library(gganimate)
 You can visualise a similar visualisation like static ggplot above using standard PowerBI's scatterplot.
 I have done something similar here.
 
-<iframe width="1140" height="541.25" src="https://app.powerbi.com/view?r=eyJrIjoiZTFhMTljZjQtZjU4Ni00ZmNmLWFmNDItNWVkNmFiNDFlMTc0IiwidCI6ImFkM2Q5YzczLTk4MzAtNDRhMS1iNDg3LWUxMDU1NDQxYzcwZSIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe>
-
+[![Scatter Plot](./scatter.png)
 
