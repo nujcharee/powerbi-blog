@@ -91,8 +91,9 @@ library(gganimate)
   labs(title = "Rhythm of baby shark: {frame_time}")
 
 ```
-
-![Baby Shark](./babyshark.gif =640x)
+<p>
+  <img src="./babyshark.gif" alt="gif" width="640", height = "480">
+</p>
 
 <br>
 
