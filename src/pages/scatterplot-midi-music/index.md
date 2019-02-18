@@ -92,7 +92,7 @@ library(gganimate)
 
 ```
 
-[![Baby Shark](./babyshark.gif)
+![Baby Shark](./babyshark.gif =640x480)
 
 <br>
 
