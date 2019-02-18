@@ -17,7 +17,7 @@ So it is the start of the school holiday here in the UK, which means more family
 
 <br>
 
-[![Baby Shark](https://img.buzzfeed.com/buzzfeed-static/static/2018-08/20/6/asset/buzzfeed-prod-web-01/sub-buzz-20127-1534762574-6.jpg?downsize=700:*&output-format=auto&output-quality=auto)](https://youtu.be/XqZsoesa55w)
+![Baby Shark](https://img.buzzfeed.com/buzzfeed-static/static/2018-08/20/6/asset/buzzfeed-prod-web-01/sub-buzz-20127-1534762574-6.jpg?downsize=700:*&output-format=auto&output-quality=auto)](https://youtu.be/XqZsoesa55w)
 
 ```r
 # credit to the above tutorial by Henrik Lindberg
@@ -62,7 +62,7 @@ df.notes %>%
 ```
 
 ## My Baby Shark ```r ggplot ``` style
-[![Baby Shark](./ggplot_bbs.png)
+![Baby Shark](./ggplot_bbs.png)
 
 
 ## Let's make it more animated - just like the song!
