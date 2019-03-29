@@ -1,15 +1,16 @@
 ---
 title: Mindfulness and Loving Kindness
-date: "2019-01-21"
+date: "2019-03-29"
 ---
 
-> If we cultivate love, it returns to us
+> “If your compassion does not include yourself, it is incomplete.”
+<br>
 > Jack Kornfield
 
 I was raised a buddhist. Mindfulness and Loving Kindness is a core discipline of Buddhism. 
 Jack Kornfield is one of my favourite zen masters. I turned to mindfulness and loving kindness to help improve my mental health. And when the days are hard, I often remind myself of Jack's words of wisdom.
 
-[Jack Kornfield](http://www.twitter.com/jackkornfield). 
+[@jackkornfield](https://twitter.com/jackkornfield)
 
 
 ## Understanding Mindfulness and loving kindness
@@ -67,4 +68,13 @@ freq = result %>%
 
 wordcloud2(freq)
 ```
+<p>
+  <img src="./wc.png" alt="Loving Kindness" width="640", height = "480">
+</p>
+
+## Alexa Skills
+
+To help gaining access to Jack Kornfield's mindfulness and loving kindness' quotes, I developped Alexa Skills which can be found here. The codes can be found in my github repo.
+
+https://www.amazon.co.uk/nujcharee-Jack-Kornfields-Quotes/dp/B07PGFH78K/ref=sr_1_1?crid=CR3EZOEGLW25&keywords=jack+kornfield&qid=1553857317&s=digital-skills&sprefix=jack+korn%2Calexa-skills%2C180&sr=1-1-catcorr
 
