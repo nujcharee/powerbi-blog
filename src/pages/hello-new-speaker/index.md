@@ -18,12 +18,21 @@ I truly believe that they are communities out there that everyone can feel they 
 
 <br>
 I did my FIRST EVER powerbi talk a couple of years ago, as a matter of fact it was a virtual session. However that still does count right? :) In reality, my in-real-life data talk was at satRDay in Cardiff - June 2018. I had a good time, I hope my audience did too, I gained confidence and learned from feedback to better myself for my future talks. I have two people to thank - 
-[@janmulkens](https://twitter.com/JanMulkens)
-[@TheStephLocke](https://twitter.com/TheStephLocke)
+<br>
+* Jan Mulkens ([blog](http://blog.janmulkens.be) | [twitter](https://twitter.com/JanMulkens))
+* Steph Locke ([blog](https://itsalocke.com) | [twitter](https://twitter.com/TheStephLocke))
+<br>
 
+<b>First talk - Virtual session at [Belgium PowerBI user group](https://www.meetup.com/Flemish-Power-BI-User-Group/) </b>
+I spent many hours feeling super nervous, "what if they ask me questions I dont know the answer?". "what if my analysis is wrong?" At the end of the session, it wasn't my best - I was struggling with performance on my machine. The live demo wasn't great. 
 
-<b>First talk - Virtual session at Belguim PowerBI user group</b>
-I spent many hours feeling super nervous, "what if they ask me questions I dont know the answer?". "what if my analysis is wrong?" At the end of the session, it wasn't my best - I was struggling with performance on my machine. The live demo wasn't great. However I felt great I did it, its something that I defy my inner low self confidence that I actually could come outside my comfort zone and I was ready for the next challenge.  I learned from this lesson and I moved on. It wasn't a bad session and I patted myself on the back.
+<br>
+While it was obvious that it was my first session. As an event organiser, Jan had kindly informed the audience that I wasn't very experienced in presenting. 
+
+"People did enjoy your session" - Jan mentioned that to me and added "You showed them something that was new to them. If it wasn't new or interesting I would probably have advised you to change the topic beforehand"
+
+<br>
+Nevertheless, I felt great I did it, its something that I defy my inner low self confidence that I actually could come outside my comfort zone and I was ready for the next challenge.  I learned from this lesson and I moved on. It wasn't a bad session and I patted myself on the back. 
 
 <b>First In life talk - satRDay in Cardiff</b>
 I took a leap of faith and submitted my "Introduct to Tidytext" session which was accepted. I had a good mentor - Steph Locke who was at the event too. Overall, again I was glad I did it, bit by bit I have gained more confidence as a speaker.
@@ -42,8 +51,3 @@ To me, its a one stop shop for for a new speaker. There are so many "tags" or to
 Being outside your Comfort zone is not necessarily a bad thing. It reminds us that we are all here to live and learn. Mistakes are often made and like me thats how I learned. 
 
 I hope to continue my talks at user groups and continue to learn. I hope one day I have gained enough experience to becoming a mentor - because once again "Sharing is Caring" let the world hear your story, success or failures - we can all share our lesson learned. 
-
-PS. To Jan - thanks for your continuing support :)
-
-https://twitter.com/JanMulkens/status/1085278116199706625
-
