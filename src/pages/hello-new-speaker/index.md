@@ -1,12 +1,10 @@
 ---
-title: Mindfulness and mental health
-date: "2019-03-28"
+title: My journey as a speaker 
+date: "2019-03-29"
 ---
 
-Mindfulness is something that has helped me when dealing with difficult time in life. 
-Jack Kornfield is a one of the mindfulness teachers that inspired me a lot. You can follow him here
+> “It is hard to fail, but it is worse never to have tried to succeed.” 
+> ― Theodore Roosevelt
 
-[Jack Kornfield](http://www.twitter.com/jackkornfield). 
 
-more to come.
-
+http://www.speakingmentors.com/tag/power-bi/
