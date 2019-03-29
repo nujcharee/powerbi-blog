@@ -41,8 +41,7 @@ Being outside your Comfort zone is not necessarily a bad thing. It reminds us th
 
 I hope to continue my talks at user groups and continue to learn. I hope one day I have gained enough experience to becoming a mentor - because once again "Sharing is Caring" let the world hear your story, success or failures - we can all share our lesson learned. 
 
+PS. To Jan - thanks for your continuing support :)
 
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Already a ton of support for you Ped!<br>DM me if you need help with anything (coming up with a session, refining title/abstract, working on slides, ...)<br>Also, maybe get mr bossman <a href="https://twitter.com/mysticstatistic?ref_src=twsrc%5Etfw">@mysticstatistic</a> to submit with his experience and make it a teamday? 🙂</p>&mdash; Jan Mulkens #MVPSummit (@JanMulkens) <a href="https://twitter.com/JanMulkens/status/1085278116199706625?ref_src=twsrc%5Etfw">January 15, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-
+https://twitter.com/JanMulkens/status/1085278116199706625
 
