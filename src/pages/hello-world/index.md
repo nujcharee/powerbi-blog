@@ -11,6 +11,7 @@ I was raised a buddhist. Mindfulness and Loving Kindness is a core discipline of
 Jack Kornfield is one of my favourite zen masters. I turned to mindfulness and loving kindness to help improve my mental health. And when the days are hard, I often remind myself of Jack's words of wisdom.
 
 [@jackkornfield](https://twitter.com/jackkornfield)
+[@jackkornfield](https://twitter.com/jackkornfield)
 
 
 ## Understanding Mindfulness and loving kindness
