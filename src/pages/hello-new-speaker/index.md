@@ -17,7 +17,9 @@ I truly believe that they are communities out there that everyone can feel they 
 ## Defying your imposter syndrome and let yourself shine!
 
 <br>
-I did my FIRST EVER powerbi talk a couple of years ago, as a matter of fact it was a virtual session. However that still does count right? :) In reality, my in-real-life data talk was at satRDay in Cardiff - June 2018. I had a good time, I hope my audience did too, I gained confidence and learned from feedback to better myself for my future talks. I have two people to thank - [@janmulkens](https://twitter.com/JanMulkens) Jan Mulkens and Steph Locke [@TheStephLocke](https://twitter.com/TheStephLocke)
+I did my FIRST EVER powerbi talk a couple of years ago, as a matter of fact it was a virtual session. However that still does count right? :) In reality, my in-real-life data talk was at satRDay in Cardiff - June 2018. I had a good time, I hope my audience did too, I gained confidence and learned from feedback to better myself for my future talks. I have two people to thank - 
+[@janmulkens](https://twitter.com/JanMulkens)
+[@TheStephLocke](https://twitter.com/TheStephLocke)
 
 
 <b>First talk - Virtual session at Belguim PowerBI user group</b>
