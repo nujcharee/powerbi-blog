@@ -7,102 +7,42 @@ date: "2019-03-29"
 <br>
 > ― Theodore Roosevelt
 
-In recent years I have attended many data and technology related meetups. I travelled all around the country to be part of the communities. As an introvert, I dont ususlly successfully network with anyone. In most cases, the majority of the attendees are male, my imposter syndrome introvert self feels intimidated and self-deprecated inner voice continues.
+In recent years I have attended many data and technology related meetups. I travelled all around the country to be part of the communities. As an introvert, networking with new people is a struggle and being a woman from a minority background at an event where majority of attendees are male adds on to my nervousness and anxiety. Nevertheless I always continue to be inspired by the topics I learned from the events. 
 
-Nevertheless I always continue to be inspired by the topics I learned from the events. 
-
-So if you are an introvert like me, maybe you resonate with my experience above. I am writing this blog in the hope to encourage people, like me, who love to share their learning journey. If self confidence is a barrier that stops, you don't need to struggle anymore.
+So if you are an introvert like me, maybe you resonate with my experience above. I am writing this blog in the hope to encourage people, like me, who love to share their learning journey. If self confidence is a barrier that stops, you don't need to struggle anymore
 
 ## You aren't alone
-I truly believe that they are communities out there that everyone can feel belong. As for me, Twitter was a good platform for me to learn and engage with online communities, thanks to hashtags #PowerBI and #Rstats. 
+I truly believe that they are communities out there that everyone can feel belong. As for me, Twitter was a good platform for me to learn and engage with online communities, thanks to hashtags #PowerBI and #Rstats. I also believe that anyone has their story to tell and share. After all #ShaingIsCaring I hope you all agree with me :)
+
+## Defying your imposter syndrome and let yourself shine!
 
 <br>
 I started my FIRST EVER powerbi talk a couple of years ago, as a matter of fact it was a virtual session. However that still does count right? :) In reality, my in-real-life data talk was at satRDay in Cardiff - June 2018. I had a good time, I hope my audience did too, I gained confidence and learned from feedback to better myself for my future talks. I have two people to thank - [@janmulkens](https://twitter.com/JanMulkens) Jan Mulkens and Steph Locke [@TheStephLocke](https://twitter.com/TheStephLocke)
 
 
+<b>First talk - Virtual session at Belguim PowerBI user group</b>
+I spent many hours feeling super nervous, "what if they ask me questions I dont know the answer?". "what if my analysis is wrong?" At the end of the session, it wasn't my best - I was struggling with performance on my machine. The live demo wasn't great. However I felt great I did it, its something that I defy my inner low self confidence that I actually could come outside my comfort zone and I was ready for the next challenge.  I learned from this lesson and I moved on. It wasn't a bad session and I patted myself on the back.
+
+<b>First In life talk - satRDay in Cardiff</b>
+I took a leap of faith and submitted my "Introduct to Tidytext" session which accepted. I had a good mentor - Steph Locke who was at the event too. Overall, again I was glad I did it, bit by bit I have gained tiny more confidence as a speaker.
 
 
+## Finding a mentor
 
-http://www.speakingmentors.com/tag/power-bi/
+While I was googling away for tips and advice on how to prepare myself for my first talk, I came across Steph Locke's office hours which she offered half an hour of her time to chat about data projects. Having attended one of Steph's session at SQL Relay in Nottingham, UK - I took that chance! I benefited from her valuable advice and little tips to get my presentation starts, from structure of presentations. It may be very obvious for experienced speakers but a novice like me often skips that sort of details.
+
+This year, I consider challenging myself to the next step. I submitted a few proposals to speak at PowerBI and SQL user groups. I came across http://www.speakingmentors.com/ that allows me to look up for mentors. 
+
+To me, its a one stop shop for for a new speaker. There are so many "tags" or topics that I can filter to find right mentors for my requirements. I just popped in my search criteria, "Data Science" and "Power BI"
+
+## Summary
+
+Being outside your Comfort zone is not necessarily a bad thing. It reminds us that we are all here to live and learn. Mistakes are often made and like me thats how I learn. 
+
+I hope to continue my talks at user groups and continue to learn. I hope one day I have gained enough experience to becoming a mentor - because once again "Sharing is Caring" let the world hears your story, success or failures - we can all share our lesson learned. 
+
+
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Already a ton of support for you Ped!<br>DM me if you need help with anything (coming up with a session, refining title/abstract, working on slides, ...)<br>Also, maybe get mr bossman <a href="https://twitter.com/mysticstatistic?ref_src=twsrc%5Etfw">@mysticstatistic</a> to submit with his experience and make it a teamday? 🙂</p>&mdash; Jan Mulkens #MVPSummit (@JanMulkens) <a href="https://twitter.com/JanMulkens/status/1085278116199706625?ref_src=twsrc%5Etfw">January 15, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-
-
-#Proving myself wrong
-Have you ever thought that you want to prove yourself wrong? This is one of the cases
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Have you always aspired to be a phenomenal public speaker? As you know, it takes a lot of preparation and practice to be the presenter you want to be. The ability to speak confidently and deliver a clear, concise, and engaging presentation is what every presenter aims to achieve. 
-
-### Haven't you ever taken a leap of faith? 
-Its a Yes from me! Having a career in data profession for the last 20 years, from the outside I look confident and bubbly however speaking in public isn't at all my comfort zone. 
-
-
-Why do I do it?
-
-Because #SharingIsCaring
-
-
-
-In the past couple of years I had attended many data and technology related meetups. These meetups are certainly one of the means to network and keep up-to-date with news and case studies. 
-
-Unfortunately, face to face networking wasnt my thing! 
-
-
-R and Power BI
-
-Imposter Syndrome Alert!
-
-
-I started to go outside my comfort zone, bit by bit. I partcipated in data story using PowerBI 
-Link here
-
-
-Start to gain a bit of confidence here :) little that I know the by product of engaging in online communities could help me battling with my inner self critical voice 
-
-I take a deeper leap this time - 
-
-Thankfully, Jan Mulkens who runs Belgium PowerBI user group had kindly given an opportunity to talk about my data story. I reluctantly accepted the challenge. It was my FIRST EVER talk - and it was a virtual session. 
-I didnt know how my audience reacted, after the talk I felt great! I was surprised of myself. 
-
-It wasn't my best but I have learned from feedback from Jan and some who reached out to me for more questions.
-
-One of the difficult things I've found is to find a mentor. It takes commitment for both parties and 
-
-
-
-
-
-
-
-
-I've learned so much and keep myself up-to-date with news and case studies. 
-
-
-I have been working as a data professional for the past 20 years, my learning pace has been steadily slow for many reasons.
-
-
-
 
 
