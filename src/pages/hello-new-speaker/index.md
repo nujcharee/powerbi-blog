@@ -18,7 +18,9 @@ I truly believe that there are communities out there that everyone can feel they
 
 <br>
 I did my FIRST EVER powerbi talk a couple of years ago, as a matter of fact it was a virtual session. However that still does count right? :) In reality, my in-real-life data talk was at satRDay in Cardiff - June 2018. I had a good time, I hope my audience did too, I gained confidence and learned from feedback to better myself for my future talks. I have two people to thank - 
-<br>
+
+<br> 
+
 * Jan Mulkens http://blog.janmulkens.be | https://twitter.com/JanMulkens
 <br>
 * Steph Locke https://itsalocke.com | https://twitter.com/TheStephLocke
