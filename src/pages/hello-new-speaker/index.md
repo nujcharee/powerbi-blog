@@ -21,11 +21,12 @@ I did my FIRST EVER powerbi talk a couple of years ago, as a matter of fact it w
 
 <br> 
 
-* Jan Mulkens http://blog.janmulkens.be | https://twitter.com/JanMulkens
+* Jan Mulkens [blog](http://blog.janmulkens.be) | [twitter]https://twitter.com/JanMulkens
 <br>
-* Steph Locke https://itsalocke.com | https://twitter.com/TheStephLocke
-<br>
+* Steph Locke [blog]https://itsalocke.com | [twitter]https://twitter.com/TheStephLocke
 
+<br>
+<br>
 <b>First talk - Virtual session at [Belgium PowerBI user group](https://www.meetup.com/Flemish-Power-BI-User-Group/) </b>
 I spent many hours feeling super nervous, "what if they ask me questions and I dont know the answers?". "what if my analysis is wrong?" At the end of the session, it wasn't my best - I was struggling with performance on my machine. The live demo wasn't great. 
 
